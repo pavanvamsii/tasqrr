@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1087125126983",
+    "project_id": "tasqr-25f51",
+    "storage_bucket": "tasqr-25f51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087125126983:android:1883baa2c038f44f459662",
+        "android_client_info": {
+          "package_name": "com.example.tasqrr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087125126983-62e8k3bve11g8gu79bfc4p5lksmsi34a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAktRv0d00CPCMce0IKZV5SBhXr6y1aUvQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087125126983-62e8k3bve11g8gu79bfc4p5lksmsi34a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
